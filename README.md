@@ -1,1 +1,1 @@
-#crd adrianhajdin (javascript mastery)
+#crd Adrian Hajdin - JavaScript Mastery
